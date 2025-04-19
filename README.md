@@ -12,9 +12,6 @@
     <a href="https://github.com/GenAIPHBuilders-org">
       <img src="https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github" alt="GitHub">
     </a>
-    <a href="[DISCORD_INVITE_LINK]">
-      <img src="https://img.shields.io/badge/Discord-Community-purple?style=flat-square&logo=discord" alt="Discord">
-    </a>
   </div>
   
   <br/>
